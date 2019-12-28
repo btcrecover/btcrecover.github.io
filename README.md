@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 有多少数字货币丢失了
 
-You can use the [editor on GitHub](https://github.com/btcrecover/btcrecover.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+因忘记秘钥、助记词或者丢失存储秘钥的硬件，而丢失比特币的事件数不胜数。根据数字取证公司对比特币区块链进行的研究，大约有288万至399万个比特币已经永远消失，对应比特币总数的17%至23%, 到2040年左右，比特币的总挖掘量将达到2000万个左右，但实际上可流通的比特币将远低于这一数字。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 如何找回丢失的比特币
+1、暴力破解
+使用软件加密码字典通过穷举法爆力破解，如用户提供有有效信息，可大大减少破解时间。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2、数据恢复
+从已删除、损坏或部分覆盖的数据中恢复钱包文件。
 
-```markdown
-Syntax highlighted code block
+3、崔眠
+记忆从潜意识中浮现需要几天或几周，需要构造场景协助用户回忆关键信息。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### BTCRECOVER能提供什么服务
+1、提供秘钥、助记词找回服务，目前支持主流币种 BTC、LTC、ETH、BCH、BSV、EOS、USDT等价值较大的,山寨币暂时不提供服务。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/btcrecover/btcrecover.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2、提供数据恢复服务，如需上门服务，请提前联系。
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+邮箱:283271868@qq.com 
+微信:GileadCN
